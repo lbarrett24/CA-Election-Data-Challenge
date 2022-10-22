@@ -64,3 +64,10 @@ county_hydrogen_fuel
 plot= county_hydrogen_fuel.plot.bar(x='county', y='total hydrogen stations')
 # all counties not listed are 0
 
+
+Southern California and the Bay area are the leaders by far when it comes to avaialbility of hydrogen refueling stations.
+Approximately 50% of all the hydrogen stations in CA are private and not accessible to the public which are used specifically
+used only for the private sector. These private stations are typically used by industrial purposes in refining and chemical processes. With a
+Prop30 approval, hydrogen vehicles would likely increase in number requiring more public infrastructure for refueling. This would also
+allow the industrial sector to tap into these stations as well making working conditions more convenient. Hydrogen fuel cells are major
+proponents for the ZEV sector since their only waste is water and air. 
