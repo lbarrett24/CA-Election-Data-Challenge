@@ -102,3 +102,13 @@ px.bar(ev_pub, x="County",y=["Public Level 1", "Public Level 2", "Public DC Fast
 px.bar(ev_priv, x="County",y=["Shared Private Level 1", "Shared Private Level 2", "Shared Private DC Fast"],
       labels={'value': 'Count'}, title='Private EV Chargers per County')
 
+
+
+
+Southern California and the Bay Area are EV Charger leaders by far serving the majority of EV owners in the state. A potential benefit
+of passing Prop30 would be the acquisition of more publicly owned EV chargers. Currently the state leading counties have over
+ninety-percent of the EV chargers as private entitites which are subject to the private sectors ruling. If Prop30 is withheld however, 
+it may allow the private sector to benefit more and generate more taxable income that would benefit the state. Private networks may cost more but, 
+in return they need less maintenance since there is less wear and tire on the infrastructure and allows for faster charging since it is limited to 
+those individuals who have access to that particular private network. Public networks may allow for more potential users but, it slows the charging
+speeds down substantially since the chargers would be pulling more power. 
