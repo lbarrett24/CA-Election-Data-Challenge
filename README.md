@@ -12,9 +12,6 @@ Python
 
 Heroku
 
-## Analysis Report
-[insert stuff here]
-
 ## Data Sources and  References
 [1] Election 2022 California Proposition 30 | KQED https://www.kqed.org/voterguide/proposition-30-electric-cars-tax
 
