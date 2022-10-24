@@ -19,3 +19,14 @@ Heroku
 [1] Election 2022 California Proposition 30 | KQED https://www.kqed.org/voterguide/proposition-30-electric-cars-tax
 
 [2] ZEV and Infrastsructure Stats Data https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data
+
+## Contributors
+Lukas Barrett, Undergraduate | Statistics | UC Davis
+
+Kaleem Ezatullah, Undergraduate | Statistics | UC Davis
+
+Andrew Muench, Undergraduate | Statistics | UC Davis
+
+Michelle Tsang, Undergraduate | Statistics | UC Davis
+
+Connor Young, Undergraduate | Statistics | UC Davis
