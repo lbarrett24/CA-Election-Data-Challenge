@@ -5,6 +5,8 @@ We conducted exploratory data analysis on Zero Emission Electric Vehicle car (ZE
 ## Website to Data Visualization
 https://ca-election-data-challenge.herokuapp.com/
 
+Heroku is linked to this GitHub repo: https://github.com/michellet1682/CA-Election-Data-Challenge
+
 ## Tools Used:
 Python
 
