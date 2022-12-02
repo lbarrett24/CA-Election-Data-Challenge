@@ -86,14 +86,14 @@ ev_priv.head()
 
 
 px.bar(ev_df, x="County",y=["value"], color="variable", 
-       labels={'_value': 'Count'}, title='All EV Chargers per County')
+       labels={'_value': 'Count'})#, title='All EV Chargers per County')
 
 
 # In[136]:
 
 
 px.bar(ev_pub, x="County",y=["Public Level 1", "Public Level 2", "Public DC Fast"], 
-       labels={'value': 'Count'}, title='Public EV Chargers per County')
+       labels={'value': 'Count'}), title='Public EV Chargers per County')
 
 
 # In[138]:
